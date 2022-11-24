@@ -2,7 +2,7 @@
 #define main_h_
 
 #include <unistd.h>
-#include <stdargs.h>
+#include <stdarg.h>
 #include <stdlib.h>
 
 unsigned int handl_buf(char *buf, char c, unsigned int ibuf);
