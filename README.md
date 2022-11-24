@@ -1,3 +1,3 @@
-# ALX print_f
+# ALX printf
 
 This is my repository for ALX C printf project tasks.
