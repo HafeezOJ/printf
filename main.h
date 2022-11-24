@@ -5,6 +5,6 @@
 #include <stdargs.h>
 #include <stdlib.h>
 
-#endifint _printf(const char *format, ...);
+int _printf(const char *format, ...);
 
 #endif
